@@ -40,7 +40,7 @@ export default function Home() {
       <br />
 
       <h1>Ejercicio 5</h1>
-      <div className="bg-blue-500 w-24 h-24 animation-fade-in">
+      <div className="bg-blue-500 w-24 h-24 animate-fade-in">
         Aparece suavemente
       </div>
       <br />
